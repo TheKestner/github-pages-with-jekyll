@@ -2,4 +2,12 @@
 title: "Welcome to my blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+This is my very first github pages test! So lets see how this turns out.
+
+While I'm at it, I'll include some things I enjoy: 
+* Computers
+* Video Games
+* Animals
+* Movies
+* Anime
+* Music
